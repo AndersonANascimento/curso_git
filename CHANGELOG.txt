@@ -1,4 +1,5 @@
-1.0
-index.html
-principal.html
+2.0
+index.html <deletado>
+principal.html <renomeado para home.html>
 estilo.css
+principal.js
