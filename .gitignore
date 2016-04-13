@@ -10,3 +10,4 @@ build/
 doc/
 # ignore doc/notes.txt mas, não ignore doc/server/arch.txt
 doc/*.txt
+todo.txt
